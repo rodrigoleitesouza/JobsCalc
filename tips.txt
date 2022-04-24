@@ -1,13 +1,13 @@
 ----------------------------------------------------
 
-npm i express@4.17.1
+npm i express@4.17.1 (Criar e configurar servidor)
 
-npm i nodemon@2.0.15 -D
+npm i nodemon@2.0.15 -D (Atualizar automaticamente o servidor conforme alterações são realizadas)
 
-npm i ejs@3.17
+npm i ejs@3.17 (Possibilita utilizar JavaScript dentro de tags HTML)
 
 ----------------------------------------------------
 
-yarn dev [or] npm run dev
+yarn dev [or] npm run dev (Inicia o funcionamento do servidor criado!)
 
 ----------------------------------------------------
