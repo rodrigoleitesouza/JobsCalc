@@ -79,10 +79,10 @@
 
           <% jobs.forEach((job) => { %> 
 
-            <div class="card progress" data-id="1">
-              <div class="id column">1</div>
+            <div class="card progress" data-id="<%= job.id %> ">
+              <div class="id column"> <%= job.id %> </div>
               <div class="name column">
-                <%= jobs.name %> 
+                <%= job.name %> 
               </div>
               <div class="deadline column">
                 <span>Prazo</span>
