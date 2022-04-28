@@ -2,18 +2,6 @@ const express = require('express');
 const routes = express.Router();
 const ProfileController = require("./controllers/ProfileController");
 
-const Profile = {
-  data: {
-    name: "Rodrigo",
-    avatar: "https://github.com/rodrigoleitesouza.png",
-    "monthly-budget": 3000,
-    "days-per-week": 5,
-    "hours-per-day": 5,
-    "vacation-per-year": 4,
-    "value-hour": 75,
-  },
-};
-
 const Job = {
   data: [
     {
