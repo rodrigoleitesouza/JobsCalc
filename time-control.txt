@@ -3,10 +3,10 @@
 ----------- TIME CONTROL --------------------------------------------------------
 ---------------------------------------------------------------------------------
 
-[X] Vídeo 01 -   DONE!  - Link: https://www.youtube.com/watch?v=-ZKQEhmZB1U
-[X] Vídeo 02 -   DONE!  - Link: https://www.youtube.com/watch?v=tiveAxWqjeU
-[X] Vídeo 03 -   DONE!  - Link: https://www.youtube.com/watch?v=ZHThmrRp9hc
-[X] Vídeo 04 -   DONE!  - Link: https://www.youtube.com/watch?v=hGXS8hUkoAc
-[ ] Vídeo 05 - 00:00:00 - Link: https://www.youtube.com/watch?v=ltR6UwaIiug
+[X] Vídeo 01 - DONE - Link: https://www.youtube.com/watch?v=-ZKQEhmZB1U
+[X] Vídeo 02 - DONE - Link: https://www.youtube.com/watch?v=tiveAxWqjeU
+[X] Vídeo 03 - DONE - Link: https://www.youtube.com/watch?v=ZHThmrRp9hc
+[X] Vídeo 04 - DONE - Link: https://www.youtube.com/watch?v=hGXS8hUkoAc
+[X] Vídeo 05 - DONE - Link: https://www.youtube.com/watch?v=ltR6UwaIiug
 
 ---------------------------------------------------------------------------------
