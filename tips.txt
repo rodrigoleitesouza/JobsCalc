@@ -6,8 +6,14 @@ npm i nodemon@2.0.15 -D (Atualizar automaticamente o servidor conforme altera√ß√
 
 npm i ejs@3.17 (Possibilita utilizar JavaScript dentro de tags HTML)
 
+npm i sqlite@^4.1.1 (Implementa um banco de dados do tipo SQL)
+
+npm i sqlite3@^5.0.6 (Foi utilizado para adicionar algumas funcionalidades ao SQLite)
+
 ----------------------------------------------------
 
-yarn dev [or] npm run dev (Inicia o funcionamento do servidor criado!)
+yarn dev [or] npm run dev (Inicia o funcionamento do servidor criado)
+
+yarn init-db [or] npm run init-db (Cria as tabelas do banco de dados)
 
 ----------------------------------------------------

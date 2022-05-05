@@ -38,41 +38,13 @@ const initDB = {
         vacation_per_year,
         value_hour
       ) VALUES (
-        "Rodrigo Souza 999",
+        "Rodrigo Souza",
         "https://github.com/rodrigoleitesouza.png",
-        3000,
+        10000,
         5,
-        5,
+        8,
         4,
-        75
-      ); 
-    `);
-
-    await db.run(`
-      INSERT INTO jobs (
-        name,
-        daily_hours,
-        total_hours,
-        created_at
-      ) VALUES (
-        "Pizzaria Guloso 999",
-        2,
-        1,
-        1617514376018
-      ); 
-    `);
-
-    await db.run(`
-      INSERT INTO jobs (
-        name,
-        daily_hours,
-        total_hours,
-        created_at
-      ) VALUES (
-        "OneTwo Project 999",
-        3,
-        47,
-        1617514376028
+        100
       ); 
     `);
 

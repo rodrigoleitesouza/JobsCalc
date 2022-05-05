@@ -13,4 +13,8 @@ server.use(express.static("public"));
 
 server.use(routes);
 
-server.listen(3000);
+server.listen(3333);
+
+console.log("-------------------------------")
+console.log("| Server running like a truck |")
+console.log("-------------------------------")
