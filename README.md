@@ -26,7 +26,7 @@ Clique em "*Ver Perfil*" para alterar os dados cadastrais, em seguida clique em 
 
 ### `Demonstração`
 
-![GIF](https://i.imgur.com/2XZ2LbM.gif)
+![GIF](https://i.imgur.com/U74ScLW.gif)
 
 ------------------------------------------------------------------
 
