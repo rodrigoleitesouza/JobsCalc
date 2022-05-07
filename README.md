@@ -24,6 +24,10 @@ App web que estima valores para projetos freelancer, onde é possível cadastrar
 
 Clique em "*Ver Perfil*" para alterar os dados cadastrais, em seguida clique em "*Adicionar novo job*" e preencha os campos.
 
+### `Importante`
+
+Já existe uma tabela pronta para utilização do banco de dados, porém caso seja pertinente, pode-se deletar a tabela já existente e em seguida gerar-se uma nova. Para isso basta deletar a tabela existente nomeada "*database.sqlite*" e, por fim, acionar o comando "*yarn init-db*" através do terminal dentro do diretório "*Project*".
+
 ### `Demonstração`
 
 ![GIF](https://i.imgur.com/U74ScLW.gif)
